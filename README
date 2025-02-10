@@ -1,0 +1,4 @@
+# Functionality
+It is an interface application that enables RS-232 communication between the UPort 1250 device 
+a different device such as a oscilloscope (or you can check it with a feedback loop with using just UPort).
+It also includes a fully automated testing process that tests the authenticity of the device or connection.
